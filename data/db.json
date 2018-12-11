@@ -1,0 +1,24 @@
+{
+  "qoute_list": [
+    {
+      "id": 1,
+      "solution": "asdasd",
+      "service": "aasdasdsd",
+      "name": "asd",
+      "company": "asd",
+      "email": "asd",
+      "phone_number": "912312421",
+      "message": "asdasdasdsd"
+    },
+    {
+      "id": 3,
+      "solution": "solution 1",
+      "service": "service",
+      "name": "jose",
+      "company": "test",
+      "email": "email@asds.sds",
+      "phone_number": "912312421",
+      "message": "asdasd asdasdasd "
+    }
+  ]
+}
